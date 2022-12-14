@@ -74,18 +74,18 @@ Material:
     - Vector1_a907251aba1d40c5aac0cf129d8fdfdd: -0.48
     - Vector1_bc714f773f7f47ce90e2b58c2af5a063: 29.4
     - Vector1_bc714f773f7f47ce90e2b58c2af5a063_1: -1
-    - _Amplitude: 0
-    - _Bump: 0.04
+    - _Amplitude: 1
+    - _Bump: 0
     - _BumpLocalPosX: -0.31
-    - _Frequency: 23.33
+    - _Frequency: 1
     - _Metaliic: 0
     - _QueueControl: -1
     - _QueueOffset: 0
-    - _RollCenterPosX: -0.4
+    - _RollCenterPosX: 10.68
     - _Smoothness: 0
-    - _Spin: 30
-    - _XLength: 30
-    - _YLength: 3
+    - _Spin: 90
+    - _XLength: 1000
+    - _YLength: 1
     - xLength: 0.95
     m_Colors:
     - Color_247d3fa9eb8944a8944e236af2d6de33: {r: 0.9622641, g: 0.17702028, b: 0.17702028, a: 1}
@@ -95,7 +95,7 @@ Material:
     - Vector2_adc999529795485aac99ab4501119b79: {r: 1.42, g: 14, b: 0, a: 0}
     - Vector3_544c83055ba24959884f4faf42c1eead: {r: 15.5, g: 0, b: 0, a: 0}
     - Vector4_576dd56e77d940bf9f4651a849af86f6: {r: 0, g: 0, b: 0, a: 0}
-    - _FromColor: {r: 0, g: 0.34294748, b: 1, a: 0}
+    - _FromColor: {r: 0, g: 0.3411765, b: 1, a: 0}
     - _PlaneNormal: {r: 0, g: 0.48, b: 0, a: 0}
     - _PlanePosition: {r: 0, g: 0.48, b: 0, a: 0}
     - _ToColor: {r: 1, g: 0, b: 0.92926645, a: 0}
