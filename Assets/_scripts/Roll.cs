@@ -21,9 +21,9 @@ public class Roll : MonoBehaviour
             unroll +=5;
             
                 shader.SetFloat("_RollCenterPosX", unroll / roll);
-            if (unroll > 905)
+            if (unroll > 440f)
         
-           unroll = 905;
+           unroll = 440f;
 
         }
 

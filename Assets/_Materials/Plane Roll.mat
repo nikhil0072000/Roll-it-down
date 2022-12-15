@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-4629412876668370288
+--- !u!114 &-358262208239681572
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
@@ -34,6 +34,10 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - Texture2D_71d93f61d09d44419816838570d1d659:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Albedo:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
@@ -81,10 +85,10 @@ Material:
     - _Metaliic: 0
     - _QueueControl: -1
     - _QueueOffset: 0
-    - _RollCenterPosX: 10.68
+    - _RollCenterPosX: 14.833333
     - _Smoothness: 0
     - _Spin: 90
-    - _XLength: 1000
+    - _XLength: 30
     - _YLength: 1
     - xLength: 0.95
     m_Colors:
@@ -95,8 +99,8 @@ Material:
     - Vector2_adc999529795485aac99ab4501119b79: {r: 1.42, g: 14, b: 0, a: 0}
     - Vector3_544c83055ba24959884f4faf42c1eead: {r: 15.5, g: 0, b: 0, a: 0}
     - Vector4_576dd56e77d940bf9f4651a849af86f6: {r: 0, g: 0, b: 0, a: 0}
-    - _FromColor: {r: 0, g: 0.3411765, b: 1, a: 0}
+    - _FromColor: {r: 0.7548189, g: 0.8584906, b: 0.23001064, a: 0}
     - _PlaneNormal: {r: 0, g: 0.48, b: 0, a: 0}
     - _PlanePosition: {r: 0, g: 0.48, b: 0, a: 0}
-    - _ToColor: {r: 1, g: 0, b: 0.92926645, a: 0}
+    - _ToColor: {r: 0.31112495, g: 0.7264151, b: 0.3833493, a: 0}
   m_BuildTextureStacks: []

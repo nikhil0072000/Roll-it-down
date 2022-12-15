@@ -905,7 +905,7 @@ PrefabInstance:
     - target: {fileID: 1479935813987863161, guid: 41f102e003c97424a854f21e194b286b, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 87ef459445baddd4699a6d1430c3f0bd, type: 2}
+      objectReference: {fileID: 2100000, guid: 902ae8aee6ba1c0458e1d528b6f66bac, type: 2}
     - target: {fileID: 4957335726081570484, guid: 41f102e003c97424a854f21e194b286b, type: 3}
       propertyPath: material
       value: 
@@ -1077,7 +1077,7 @@ PrefabInstance:
     - target: {fileID: 1479935813987863161, guid: 41f102e003c97424a854f21e194b286b, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 87ef459445baddd4699a6d1430c3f0bd, type: 2}
+      objectReference: {fileID: 2100000, guid: 902ae8aee6ba1c0458e1d528b6f66bac, type: 2}
     - target: {fileID: 4957335726081570484, guid: 41f102e003c97424a854f21e194b286b, type: 3}
       propertyPath: material
       value: 
@@ -1924,7 +1924,7 @@ PrefabInstance:
     - target: {fileID: 1479935813987863161, guid: 41f102e003c97424a854f21e194b286b, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 87ef459445baddd4699a6d1430c3f0bd, type: 2}
+      objectReference: {fileID: 2100000, guid: 902ae8aee6ba1c0458e1d528b6f66bac, type: 2}
     - target: {fileID: 4957335726081570484, guid: 41f102e003c97424a854f21e194b286b, type: 3}
       propertyPath: material
       value: 
@@ -2393,7 +2393,7 @@ PrefabInstance:
     - target: {fileID: 1479935813987863161, guid: 41f102e003c97424a854f21e194b286b, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 87ef459445baddd4699a6d1430c3f0bd, type: 2}
+      objectReference: {fileID: 2100000, guid: 902ae8aee6ba1c0458e1d528b6f66bac, type: 2}
     - target: {fileID: 4957335726081570484, guid: 41f102e003c97424a854f21e194b286b, type: 3}
       propertyPath: material
       value: 
@@ -2543,7 +2543,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &2122532870
 Transform:
   m_ObjectHideFlags: 0
@@ -2709,6 +2709,10 @@ PrefabInstance:
     - target: {fileID: 1119485047130270636, guid: 41f102e003c97424a854f21e194b286b, type: 3}
       propertyPath: m_Name
       value: Roll
+      objectReference: {fileID: 0}
+    - target: {fileID: 1119485047130270636, guid: 41f102e003c97424a854f21e194b286b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1479935813987863161, guid: 41f102e003c97424a854f21e194b286b, type: 3}
       propertyPath: m_Materials.Array.data[0]

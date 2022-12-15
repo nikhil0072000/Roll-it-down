@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-2998848448855472457
+--- !u!114 &-2116345813671712038
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
@@ -70,14 +70,14 @@ Material:
     - Vector1_a907251aba1d40c5aac0cf129d8fdfdd: -0.48
     - Vector1_bc714f773f7f47ce90e2b58c2af5a063: 29.4
     - Vector1_bc714f773f7f47ce90e2b58c2af5a063_1: -1
-    - _Amplitude: 0.01
+    - _Amplitude: -5.66
     - _Bump: -1
     - _BumpLocalPosX: -0.31
-    - _Frequency: -90.56
+    - _Frequency: 5.5
     - _Metaliic: 0
     - _QueueControl: -1
     - _QueueOffset: 0
-    - _RollCenterPosX: -1.38
+    - _RollCenterPosX: 4.82
     - _Smoothness: 0
     - _Spin: 29
     - _XLength: 30

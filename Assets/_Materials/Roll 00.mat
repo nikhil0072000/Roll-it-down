@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-1997834082111093909
+--- !u!114 &-576463351769181487
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
@@ -37,6 +37,14 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_e56ad7a9f24a4402a975d342fe3924cf_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 70632ddfe8e71b04b8f90ef7e29a9e98, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_f5ddc8090ecb436f8cee3f8c18e1bcb8_Texture_1:
+        m_Texture: {fileID: 2800000, guid: a04ecc9d5e12d5d449077414eb86635e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -69,7 +77,7 @@ Material:
     - _Metaliic: 0
     - _QueueControl: -1
     - _QueueOffset: 0
-    - _RollCenterPosX: 20.49
+    - _RollCenterPosX: 9.01
     - _Smoothness: 0
     - _Spin: 29
     - _XLength: 30
