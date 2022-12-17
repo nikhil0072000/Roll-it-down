@@ -19,10 +19,14 @@ public class CustomRollGUI : ShaderGUI
         MaterialProperty yLengthProperty = FindProperty("_YLength", properties);
         MaterialProperty smoothnessProperty = FindProperty("_Smoothness", properties);
         MaterialProperty metaliicProperty = FindProperty("_Metaliic", properties);
+        MaterialProperty FromalbedoProperty = FindProperty("_Fromalbedo", properties);
+        MaterialProperty ToalbedoProperty = FindProperty("_Toalbedo", properties);
 
         GUILayout.Label("Visual", EditorStyles.boldLabel);
         materialEditor.ColorProperty(fromColorProperty, fromColorProperty.displayName);
         materialEditor.ColorProperty(toColorProperty, toColorProperty.displayName);
+        materialEditor.TextureProperty(FromalbedoProperty, FromalbedoProperty.displayName);
+        materialEditor.TextureProperty(ToalbedoProperty, ToalbedoProperty.displayName);
 
         GUILayout.Label("Roll Setting", EditorStyles.boldLabel);
         DrawFloatProperty(materialEditor, rollCenterPosXProperty);
