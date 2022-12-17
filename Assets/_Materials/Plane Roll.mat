@@ -42,7 +42,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Fromalbedo:
-        m_Texture: {fileID: 2800000, guid: eda398cfd034c3941896aa44487a82ac, type: 3}
+        m_Texture: {fileID: 2800000, guid: cf30535d056b3aa4dbea3fffc7a50412, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SampleTexture2D_e56ad7a9f24a4402a975d342fe3924cf_Texture_1:
@@ -62,7 +62,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Toalbedo:
-        m_Texture: {fileID: 2800000, guid: 0f209b31d05edb34f962c2d164d1aa82, type: 3}
+        m_Texture: {fileID: 2800000, guid: cf30535d056b3aa4dbea3fffc7a50412, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _albedo:
@@ -101,7 +101,7 @@ Material:
     - _Metaliic: 0
     - _QueueControl: -1
     - _QueueOffset: 0
-    - _RollCenterPosX: 2.42
+    - _RollCenterPosX: 0
     - _Smoothness: 0
     - _Spin: 90
     - _XLength: 30
@@ -115,8 +115,8 @@ Material:
     - Vector2_adc999529795485aac99ab4501119b79: {r: 1.42, g: 14, b: 0, a: 0}
     - Vector3_544c83055ba24959884f4faf42c1eead: {r: 15.5, g: 0, b: 0, a: 0}
     - Vector4_576dd56e77d940bf9f4651a849af86f6: {r: 0, g: 0, b: 0, a: 0}
-    - _FromColor: {r: 0.7548189, g: 0.8584906, b: 0.23001064, a: 0}
+    - _FromColor: {r: 1, g: 1, b: 1, a: 1}
     - _PlaneNormal: {r: 0, g: 0.48, b: 0, a: 0}
     - _PlanePosition: {r: 0, g: 0.48, b: 0, a: 0}
-    - _ToColor: {r: 0.31112495, g: 0.7264151, b: 0.3833493, a: 0}
+    - _ToColor: {r: 1, g: 1, b: 1, a: 1}
   m_BuildTextureStacks: []

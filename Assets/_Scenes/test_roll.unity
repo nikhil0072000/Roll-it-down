@@ -256,6 +256,10 @@ PrefabInstance:
       value: Roll (2)
       objectReference: {fileID: 0}
     - target: {fileID: 1479935813987863161, guid: 41f102e003c97424a854f21e194b286b, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1479935813987863161, guid: 41f102e003c97424a854f21e194b286b, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 87ef459445baddd4699a6d1430c3f0bd, type: 2}
@@ -343,6 +347,10 @@ PrefabInstance:
     - target: {fileID: 1119485047130270636, guid: 41f102e003c97424a854f21e194b286b, type: 3}
       propertyPath: m_Name
       value: Roll (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1479935813987863161, guid: 41f102e003c97424a854f21e194b286b, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1479935813987863161, guid: 41f102e003c97424a854f21e194b286b, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -520,6 +528,10 @@ PrefabInstance:
       value: Roll (3)
       objectReference: {fileID: 0}
     - target: {fileID: 1479935813987863161, guid: 41f102e003c97424a854f21e194b286b, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1479935813987863161, guid: 41f102e003c97424a854f21e194b286b, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 87ef459445baddd4699a6d1430c3f0bd, type: 2}
@@ -609,6 +621,10 @@ PrefabInstance:
       value: Roll
       objectReference: {fileID: 0}
     - target: {fileID: 1479935813987863161, guid: 41f102e003c97424a854f21e194b286b, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1479935813987863161, guid: 41f102e003c97424a854f21e194b286b, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: 87ef459445baddd4699a6d1430c3f0bd, type: 2}
@@ -695,14 +711,14 @@ Light:
   serializedVersion: 10
   m_Type: 1
   m_Shape: 0
-  m_Color: {r: 1, g: 0.95686275, b: 0.8392157, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Intensity: 1
   m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
   m_Shadows:
-    m_Type: 2
+    m_Type: 0
     m_Resolution: -1
     m_CustomResolution: -1
     m_Strength: 1
