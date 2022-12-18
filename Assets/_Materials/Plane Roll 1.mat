@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Plane Roll
+  m_Name: Plane Roll 1
   m_Shader: {fileID: -6465566751694194690, guid: 28c6ca7e5c3539840befb46cb49b91f6, type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords: []
@@ -101,7 +101,7 @@ Material:
     - _Metaliic: 0
     - _QueueControl: -1
     - _QueueOffset: 0
-    - _RollCenterPosX: -0.98
+    - _RollCenterPosX: -1.33
     - _Smoothness: 0
     - _Spin: 90
     - _XLength: 30
