@@ -23,7 +23,7 @@ public class Roll : MonoBehaviour
        
         if (Input.GetMouseButton(0))
         {
-            unroll +=5;
+            unroll +=5 * Time.deltaTime;
             
                 shader.SetFloat("_RollCenterPosX", unroll);
             if (unroll > 440f)

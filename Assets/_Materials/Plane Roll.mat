@@ -101,7 +101,7 @@ Material:
     - _Metaliic: 0
     - _QueueControl: -1
     - _QueueOffset: 0
-    - _RollCenterPosX: -0.98
+    - _RollCenterPosX: 0
     - _Smoothness: 0
     - _Spin: 90
     - _XLength: 30
@@ -115,7 +115,7 @@ Material:
     - Vector2_adc999529795485aac99ab4501119b79: {r: 1.42, g: 14, b: 0, a: 0}
     - Vector3_544c83055ba24959884f4faf42c1eead: {r: 15.5, g: 0, b: 0, a: 0}
     - Vector4_576dd56e77d940bf9f4651a849af86f6: {r: 0, g: 0, b: 0, a: 0}
-    - _FromColor: {r: 1, g: 0, b: 0, a: 1}
+    - _FromColor: {r: 0.9528302, g: 0.5339444, b: 0.5339444, a: 1}
     - _PlaneNormal: {r: 0, g: 0.48, b: 0, a: 0}
     - _PlanePosition: {r: 0, g: 0.48, b: 0, a: 0}
     - _ToColor: {r: 1, g: 0, b: 0, a: 1}
