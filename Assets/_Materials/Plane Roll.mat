@@ -101,7 +101,7 @@ Material:
     - _Metaliic: 0
     - _QueueControl: -1
     - _QueueOffset: 0
-    - _RollCenterPosX: 0
+    - _RollCenterPosX: -4.66
     - _Smoothness: 0
     - _Spin: 90
     - _XLength: 30
